@@ -24,3 +24,5 @@
 ## 卸载 ##
 
 `./uninstall.sh` 来卸载。
+
+![login]{/images-blue/login-show.png)
