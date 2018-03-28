@@ -125,7 +125,8 @@ body > .x-mask {
 	background-color: #98b7cf;
 }
 .x-panel-header-default .x-tool-tool-el {
-	background-color: #98b7cf;
+	/*background-color: #98b7cf;*/
+	background-color: #3ba0d3;
 }
 .x-panel-header-default {
 	/*border: 1px solid #98b7cf;*/
