@@ -52,6 +52,7 @@
 .login-page {
 	/*background: #98b7cf;*/
 	background: url(/images-blue/wallpaper.jpg);
+    background-size: cover;
 }
 /******************************************************************************/
 /* Shutdown page                                                              */
@@ -415,7 +416,8 @@ div#headerrlogo {
 /******************************************************************************/
 /* Tabs */
 .x-tab-bar-default {
-	background-color: #98b7cf;
+	/*background-color: #98b7cf;*/
+	background-color: #41abdb;
 }
 .x-tab-invalid {
 	border: 1px solid #cc3300;
