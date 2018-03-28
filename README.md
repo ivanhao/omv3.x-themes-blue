@@ -25,4 +25,6 @@
 
 `./uninstall.sh` 来卸载。
 
-![login]{/images-blue/login-show.png)
+![login](./images-blue/login-show.png)
+
+![webui](./images-blue/app-show.png)
