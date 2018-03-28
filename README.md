@@ -1,5 +1,7 @@
 >This is a omv3.x's theme with blue style.
+
 ##install guide
+
 1.clone or download the code to your OMV.
 2.cd to the path
 3.execute the `chmod +x ./*.sh` command to make it have right permission to execute the install or uninstall.
@@ -9,7 +11,9 @@
 
 
 ***
+
 >这是一个omv3.x的蓝色主题
+
 ##安装说明
 1.clone或下载安装包到omv里，例如/root。
 2.命令行cd到安装包的路径里。
