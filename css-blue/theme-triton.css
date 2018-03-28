@@ -239,7 +239,8 @@ body > .x-mask {
 	background: url(/images-blue/login-header.png);
 }
 .x-window-header-default .x-tool-img {
-	background-color: #829bad; /* darker */
+	/*background-color: #829bad; /* darker */
+	background-color: #1c69a9;
 }
 /******************************************************************************/
 /* Buttons */
