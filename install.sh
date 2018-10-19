@@ -8,7 +8,7 @@ if [ "$OS" != "openmediavault" ];then
     echo "Your OS is not Openmediavault.Now quit!"
     exit
 else
-    if [ "$V" != "3" ];then
+    if [ [ "$V" != "3" ] && [ "$v" != "4"] ];then
 	echo "您的Openmediavault版本不对，不建议安装！"
 	echo "Your Openmeidavalt's version is unmatched."
 	exit
